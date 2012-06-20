@@ -1,4 +1,4 @@
-Segment-Default
+Segfault
 ===============
 
 ExpressionEngine 2 plugin to provide default fallback values for URL segment variables.
